@@ -33,7 +33,8 @@ OctoAcme uses a structured, cross-functional project management approach built o
 | [Risk Management & Communication](octoacme-risks-and-communication.md) | Risk registers, escalation paths, and communication cadences. |
 | [Release & Deployment Guide](octoacme-release-and-deployment.md) | Release planning, deployment checklists, and post-release verification. |
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Running retrospectives and turning insights into action items. |
-| [Roles & Personas](octoacme-roles-and-personas.md) | Detailed responsibilities and goals for each project role. |
+| [Roles & Personas](octoacme-roles-and-personas.md) | Detailed responsibilities, goals, and interaction patterns for each project role. |
+| [RACI-Lite Template](octoacme-raci-lite-template.md) | Reusable template to map role ownership (R/A/C/I) across project phases. |
 
 Each document provides context, templates, and checklists for consistent and scalable project execution.
 
