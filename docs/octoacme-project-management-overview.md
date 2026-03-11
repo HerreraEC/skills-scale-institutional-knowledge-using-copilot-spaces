@@ -16,9 +16,16 @@ Applies to all cross-functional projects that deliver product features, services
 ## Core Roles
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
+- Scrum Master: facilitates ceremonies, removes impediments, coaches the team on process.
 - Developers: implement features, collaborate on design and testability.
+- UX Designer / Researcher: leads discovery, design, and usability validation.
+- DevOps Engineer: owns CI/CD pipelines, infrastructure, and deployment reliability.
 - QA/Testing: validate quality and acceptance criteria.
+- Support Lead: manages support operations and feeds user insights back to the team.
+- Security Champion: advocates for secure development practices and reviews risk.
 - Stakeholders: provide inputs and approvals.
+
+> For full role definitions, interaction patterns, and a RACI-Lite mapping, see [Roles & Personas](octoacme-roles-and-personas.md).
 
 ## Key Artifacts
 - Project Charter / One-pager
@@ -27,6 +34,7 @@ Applies to all cross-functional projects that deliver product features, services
 - Acceptance Criteria & Definition of Done
 - Risk Register
 - Retrospective notes and action items
+- [RACI-Lite Template](octoacme-raci-lite-template.md): maps role ownership across phases for any project
 
 ## Lifecycle (high-level)
 1. Initiation: problem statement, stakeholders, high-level timeline.
